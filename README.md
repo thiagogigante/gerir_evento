@@ -1,2 +1,2 @@
-# gerir_evento
+# gerir_evento_react
 Evento NLW Unite da RocketSeat
